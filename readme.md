@@ -7,7 +7,3 @@ An application that displays Pokémon Cards.
 
 Resources:
 refer this: https://pokeapi.co/
-
-
-
-https://pokeapi.co/api/v2/type/
